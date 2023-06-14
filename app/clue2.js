@@ -21,6 +21,7 @@ function largerNum(num1, num2) {
 
 function crimeGrader(successful, total) {
   // TODO YOUR CODE HERE
+
 }
 
 
@@ -33,6 +34,7 @@ function crimeGrader(successful, total) {
 //   Make sure your ranges are inclusive
 function timeOfDay(hour) {
   // TODO YOUR CODE HERE
+
 }
 
 // Our surveillance team finds the closer we get to catching the associate the hotter the person gets, we can use this to narrow down the person
